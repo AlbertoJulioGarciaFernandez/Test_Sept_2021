@@ -1,0 +1,1 @@
+This is the first note I've ever written using HackMD. It's just a test to check whether I'm able to push it to my GitHub account.
